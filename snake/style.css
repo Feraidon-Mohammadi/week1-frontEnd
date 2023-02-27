@@ -1,0 +1,46 @@
+h1{
+    color: aqua;
+}
+
+
+body {
+    background-color: rgb(48, 77, 77);
+}
+
+#game-screen {
+    border-radius: 10px;
+    background-color: rgb(2, 0, 0);
+    box-shadow: rgb(249, 66, 0) 20px 10px 50px;
+
+    width: 400px;
+    height: 400px;
+}
+
+#key-form {
+    color: aqua;
+    
+
+}
+
+#dialog {
+    padding-right: 46px;
+    padding-left: 46px;
+    background-color: beige;
+    border-radius: 5px;
+    width: 400px;
+    
+   
+}
+
+#submit-btn {
+    border-radius: 5px;
+    padding: 5px;
+    padding-right: 6px;
+    color: rgb(254, 254, 255);
+    background-color: blue;
+    
+    position: absolute;
+    right: 25px;
+    bottom: 10px;
+    
+}

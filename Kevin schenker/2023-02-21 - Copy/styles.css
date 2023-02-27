@@ -1,0 +1,32 @@
+#search-form {
+  align-items: stretch;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+#search-submit-button {
+  min-width: 100px;
+}
+
+#search-field {
+  min-width: 40vw;
+  padding: 10px;
+}
+
+nav {
+  background-color: lightblue;
+  padding: 10px;
+}
+
+#result-table {
+
+  margin: 0 auto;
+  width: 90vw;
+}
+
+
+/* #title-art {
+
+
+} */
